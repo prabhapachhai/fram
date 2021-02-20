@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1K4v3WefJYUwaYPsOmx0isJGsouWyENLjQPobkzXNClj58mMv5kD6yrJeVUjw1zzwwSZc+DlrZDbwvrX0kSDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12144\\Downloads\\SeleniumWebDriverNUnitTestProject\\SeleniumWebDriverNUnitTestProject\\NUnitTestProjectDotNetFramework\\NUnitTestProjectDotNetFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12144\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\12144\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\12144\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\12144\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}
